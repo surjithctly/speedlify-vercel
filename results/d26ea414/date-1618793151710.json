@@ -1,0 +1,50 @@
+{
+  "url": "https://web3templates.com/",
+  "requestedUrl": "https://web3templates.com/",
+  "timestamp": 1618793266607,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.98,
+    "accessibility": 0.79,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 362
+  },
+  "firstContentfulPaint": 1961.588,
+  "speedIndex": 1961.588,
+  "largestContentfulPaint": 2261.644,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.02468509250217014,
+  "timeToInteractive": 1963.074,
+  "maxPotentialFirstInputDelay": 92,
+  "timeToFirstByte": 14.844999999999999,
+  "weight": {
+    "summary": "21 requests • 142 KiB",
+    "total": 144908,
+    "image": 731,
+    "imageCount": 1,
+    "script": 94616,
+    "scriptCount": 11,
+    "document": 2686,
+    "font": 37305,
+    "fontCount": 1,
+    "stylesheet": 8327,
+    "stylesheetCount": 2,
+    "thirdParty": 40402,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 74,
+    "violations": 8
+  }
+}
