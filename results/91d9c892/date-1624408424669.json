@@ -1,0 +1,49 @@
+{
+  "url": "https://mission-control.app/",
+  "requestedUrl": "https://mission-control.app/",
+  "timestamp": 1624408558471,
+  "ranks": {
+    "hundos": 3,
+    "performance": 5,
+    "accessibility": 1,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.8,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 380
+  },
+  "firstContentfulPaint": 2067.0680000000048,
+  "speedIndex": 23372.250375728534,
+  "largestContentfulPaint": 2680.9400000000064,
+  "totalBlockingTime": 67.5,
+  "cumulativeLayoutShift": 0.02536127387152778,
+  "timeToInteractive": 2339.764000000005,
+  "maxPotentialFirstInputDelay": 185,
+  "timeToFirstByte": 71.59899999999834,
+  "weight": {
+    "summary": "25 requests • 254 KiB",
+    "total": 260021,
+    "image": 71638,
+    "imageCount": 3,
+    "script": 117326,
+    "scriptCount": 11,
+    "document": 7395,
+    "font": 55522,
+    "fontCount": 2,
+    "stylesheet": 5292,
+    "stylesheetCount": 2,
+    "thirdParty": 107727,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}
