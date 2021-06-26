@@ -1,0 +1,50 @@
+{
+  "url": "https://web3forms.com/",
+  "requestedUrl": "https://web3forms.com/",
+  "timestamp": 1624667774199,
+  "ranks": {
+    "hundos": 2,
+    "performance": 5,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.94,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 2613.3210000000004,
+  "speedIndex": 2613.3210000000004,
+  "largestContentfulPaint": 2613.3210000000004,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.02514639451768663,
+  "timeToInteractive": 2613.3210000000004,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 41.402,
+  "weight": {
+    "summary": "31 requests • 291 KiB",
+    "total": 298258,
+    "image": 21162,
+    "imageCount": 2,
+    "script": 187793,
+    "scriptCount": 16,
+    "document": 10261,
+    "font": 71720,
+    "fontCount": 2,
+    "stylesheet": 6928,
+    "stylesheetCount": 1,
+    "thirdParty": 25535,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 989,
+    "violations": 63
+  }
+}
