@@ -93,15 +93,16 @@ async function tryToPreventNetlifyBuildTimeout(dateTestsStarted, numberOfUrls) {
 			const lastRunSecondsAgo = (dateTestsStarted - lastRun.timestamp) / 1000;
 			const lastRunSecondsAgoPretty = prettyTime(lastRunSecondsAgo);
 			const lastRunMinutesAgo = lastRunSecondsAgo / 60;
-			if (lastRunMinutesAgo < runFrequency) {
-				console.log(
-					`Previous test for ${key} ran ${lastRunSecondsAgoPretty}, less than ${runFrequency} minutes, skipping.`
-				);
-				continue;
-			} else {
-				console.log(`Previous test for ${key} ran ${lastRunSecondsAgoPretty}, more than ${runFrequency} minutes, running.`);
-
-			}
+// 			if (lastRunMinutesAgo < runFrequency) {
+// 				console.log(
+// 					`Previous test for ${key} ran ${lastRunSecondsAgoPretty}, less than ${runFrequency} minutes, skipping.`
+// 				);
+// 				continue;
+// 			} else {
+// 				console.log(`Previous test for ${key} ran ${lastRunSecondsAgoPretty}, more than ${runFrequency} minutes, running.`);
+// 
+// 			}
+			console.log(`Previous test for ${key} ran ${lastRunSecondsAgoPretty}, running new test now.`);
 		}
 
 		let runCount =
