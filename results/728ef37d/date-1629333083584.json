@@ -1,0 +1,50 @@
+{
+  "url": "https://realestate-next.netlify.app/",
+  "requestedUrl": "https://realestate-next.netlify.app/",
+  "timestamp": 1629333317137,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 4,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.82,
+    "accessibility": 0.61,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 326
+  },
+  "firstContentfulPaint": 1679.807,
+  "speedIndex": 1745.2979529778531,
+  "largestContentfulPaint": 4781.08,
+  "totalBlockingTime": 64.00000000000011,
+  "cumulativeLayoutShift": 0.048995361328125,
+  "timeToInteractive": 1991.786,
+  "maxPotentialFirstInputDelay": 178.00000000000023,
+  "timeToFirstByte": 95.678,
+  "weight": {
+    "summary": "32 requests • 4,430 KiB",
+    "total": 4536135,
+    "image": 4408420,
+    "imageCount": 13,
+    "script": 79332,
+    "scriptCount": 10,
+    "document": 6479,
+    "font": 34271,
+    "fontCount": 4,
+    "stylesheet": 7633,
+    "stylesheetCount": 2,
+    "thirdParty": 3516893,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 537,
+    "violations": 60
+  }
+}
