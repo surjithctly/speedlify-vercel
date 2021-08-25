@@ -1,0 +1,50 @@
+{
+  "url": "https://mission-control.app/",
+  "requestedUrl": "https://mission-control.app/",
+  "timestamp": 1629851886017,
+  "ranks": {
+    "hundos": 1,
+    "performance": 4,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.97,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 397
+  },
+  "firstContentfulPaint": 1977.7039999999997,
+  "speedIndex": 1993.3299480000242,
+  "largestContentfulPaint": 2427.929,
+  "totalBlockingTime": 44.5,
+  "cumulativeLayoutShift": 0.025569064670138888,
+  "timeToInteractive": 2611.929,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 155.471,
+  "weight": {
+    "summary": "25 requests • 254 KiB",
+    "total": 260140,
+    "image": 71698,
+    "imageCount": 3,
+    "script": 117331,
+    "scriptCount": 11,
+    "document": 7397,
+    "font": 55523,
+    "fontCount": 2,
+    "stylesheet": 5296,
+    "stylesheetCount": 2,
+    "thirdParty": 107810,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 298,
+    "violations": 24
+  }
+}
