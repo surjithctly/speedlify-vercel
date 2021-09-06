@@ -1,0 +1,50 @@
+{
+  "url": "https://nextly.web3templates.com/",
+  "requestedUrl": "https://nextly.web3templates.com/",
+  "timestamp": 1630889105059,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1050.342,
+  "speedIndex": 1479.97481176497,
+  "largestContentfulPaint": 1967.342,
+  "totalBlockingTime": 152,
+  "cumulativeLayoutShift": 0.00011805555555555556,
+  "timeToInteractive": 2784.5132002716064,
+  "maxPotentialFirstInputDelay": 212,
+  "timeToFirstByte": 162.18900000000002,
+  "weight": {
+    "summary": "15 requests • 232 KiB",
+    "total": 237186,
+    "image": 58201,
+    "imageCount": 2,
+    "script": 119528,
+    "scriptCount": 8,
+    "document": 16441,
+    "font": 37445,
+    "fontCount": 1,
+    "stylesheet": 5571,
+    "stylesheetCount": 1,
+    "thirdParty": 37445,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 476,
+    "violations": 46
+  }
+}
