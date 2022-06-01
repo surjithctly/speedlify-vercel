@@ -9,5 +9,6 @@ module.exports = {
 		"https://realestate-next.netlify.app/",
 		"https://medicity-eleventy.netlify.app/",
 		"https://nextly.web3templates.com/",
+		"https://stablo.web3templates.com/",
 	]
 };
