@@ -1,0 +1,50 @@
+{
+  "url": "https://logistics-next.netlify.app/",
+  "requestedUrl": "https://logistics-next.netlify.app/",
+  "timestamp": 1657331640092,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.66,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 357
+  },
+  "firstContentfulPaint": 2068.465,
+  "speedIndex": 7681.521037999935,
+  "largestContentfulPaint": 6021.1715,
+  "totalBlockingTime": 35.5,
+  "cumulativeLayoutShift": 0.03404151916503906,
+  "timeToInteractive": 2269.2575,
+  "maxPotentialFirstInputDelay": 121,
+  "timeToFirstByte": 1707.661,
+  "weight": {
+    "summary": "26 requests • 2,815 KiB",
+    "total": 2882320,
+    "image": 2740691,
+    "imageCount": 7,
+    "script": 84777,
+    "scriptCount": 10,
+    "document": 9752,
+    "font": 40476,
+    "fontCount": 5,
+    "stylesheet": 6624,
+    "stylesheetCount": 2,
+    "thirdParty": 41609,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 500,
+    "violations": 39
+  }
+}
