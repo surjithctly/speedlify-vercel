@@ -1,0 +1,50 @@
+{
+  "url": "https://web3canvas.com/",
+  "requestedUrl": "https://web3canvas.com/",
+  "timestamp": 1658714436939,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 6,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.11,
+    "accessibility": 0.67,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 255
+  },
+  "firstContentfulPaint": 5243.069,
+  "speedIndex": 8867.303785027601,
+  "largestContentfulPaint": 6650.553000000002,
+  "totalBlockingTime": 2809.4301807861348,
+  "cumulativeLayoutShift": 0.5006022972530788,
+  "timeToInteractive": 14747.005000000005,
+  "maxPotentialFirstInputDelay": 545,
+  "timeToFirstByte": 495.66900000000004,
+  "weight": {
+    "summary": "123 requests • 2,050 KiB",
+    "total": 2099498,
+    "image": 526576,
+    "imageCount": 21,
+    "script": 637200,
+    "scriptCount": 49,
+    "document": 48136,
+    "font": 192455,
+    "fontCount": 9,
+    "stylesheet": 675134,
+    "stylesheetCount": 35,
+    "thirdParty": 471524,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1105,
+    "violations": 154
+  }
+}
