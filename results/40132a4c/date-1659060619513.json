@@ -1,0 +1,50 @@
+{
+  "url": "https://medicity-eleventy.netlify.app/",
+  "requestedUrl": "https://medicity-eleventy.netlify.app/",
+  "timestamp": 1659060723115,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 905.4110000000001,
+  "speedIndex": 2105.518792325267,
+  "largestContentfulPaint": 2162.075,
+  "totalBlockingTime": 40.5,
+  "cumulativeLayoutShift": 0.915625,
+  "timeToInteractive": 2162.075,
+  "maxPotentialFirstInputDelay": 109,
+  "timeToFirstByte": 409.88999999999993,
+  "weight": {
+    "summary": "23 requests • 410 KiB",
+    "total": 419644,
+    "image": 321520,
+    "imageCount": 17,
+    "script": 83077,
+    "scriptCount": 3,
+    "document": 6601,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8446,
+    "stylesheetCount": 2,
+    "thirdParty": 54884,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 767,
+    "violations": 27
+  }
+}
