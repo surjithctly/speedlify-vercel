@@ -1,0 +1,50 @@
+{
+  "url": "https://stablo.web3templates.com/",
+  "requestedUrl": "https://stablo.web3templates.com/",
+  "timestamp": 1659319962165,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 4,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 389
+  },
+  "firstContentfulPaint": 1228.0140000000001,
+  "speedIndex": 1228.0140000000001,
+  "largestContentfulPaint": 1541.0140000000001,
+  "totalBlockingTime": 297.5,
+  "cumulativeLayoutShift": 0.025024007161458334,
+  "timeToInteractive": 3647.514,
+  "maxPotentialFirstInputDelay": 275,
+  "timeToFirstByte": 140.154,
+  "weight": {
+    "summary": "46 requests • 758 KiB",
+    "total": 775833,
+    "image": 200517,
+    "imageCount": 22,
+    "script": 142748,
+    "scriptCount": 12,
+    "document": 44717,
+    "font": 306501,
+    "fontCount": 3,
+    "stylesheet": 6849,
+    "stylesheetCount": 1,
+    "thirdParty": 507018,
+    "thirdPartyCount": 25
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 352,
+    "violations": 64
+  }
+}
