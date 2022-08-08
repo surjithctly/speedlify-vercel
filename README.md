@@ -6,6 +6,12 @@ This repository is based on the workflow in [ThewApp/speedlify-actions](https://
 
 For more information, please read [ThewApp/speedlify-actions#README](https://github.com/ThewApp/speedlify-actions#readme).
 
+## Demo
+https://w3c-speedlify.vercel.app/
+
+## Get URLs & Hash
+https://w3c-speedlify.vercel.app/api/urls.json
+
 ## Usage
 
 1. Get this workflow by one of these:
