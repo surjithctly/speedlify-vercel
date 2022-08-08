@@ -5,10 +5,11 @@ module.exports = {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
 	urls: [
-		"https://logistics-next.netlify.app/",
-		"https://realestate-next.netlify.app/",
-		"https://medicity-eleventy.netlify.app/",
+		"https://logistics-next.vercel.app/",
+		"https://greenhome-next.vercel.app/",
+		"https://medicity-eleventy.vercel.app/",
 		"https://nextly.web3templates.com/",
 		"https://stablo.web3templates.com/",
+		"https://sandocs.vercel.app/"
 	]
 };
