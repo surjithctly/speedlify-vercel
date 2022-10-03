@@ -1,0 +1,50 @@
+{
+  "url": "https://surjithctly.in/",
+  "requestedUrl": "https://surjithctly.in/",
+  "timestamp": 1664762383065,
+  "ranks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 380
+  },
+  "firstContentfulPaint": 848.7639999999998,
+  "speedIndex": 859.6009606940603,
+  "largestContentfulPaint": 848.7639999999998,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0.05577573140462239,
+  "timeToInteractive": 931.2639999999998,
+  "maxPotentialFirstInputDelay": 89,
+  "timeToFirstByte": 42.275999999999996,
+  "weight": {
+    "summary": "7 requests • 48 KiB",
+    "total": 48769,
+    "image": 34642,
+    "imageCount": 1,
+    "script": 7141,
+    "scriptCount": 2,
+    "document": 6626,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 7268,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 148,
+    "violations": 8
+  }
+}
