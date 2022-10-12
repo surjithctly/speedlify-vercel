@@ -1,0 +1,50 @@
+{
+  "url": "https://medicity-eleventy.vercel.app/",
+  "requestedUrl": "https://medicity-eleventy.vercel.app/",
+  "timestamp": 1665541919076,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 1,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 1100.476,
+  "speedIndex": 1100.476,
+  "largestContentfulPaint": 2216.29,
+  "totalBlockingTime": 100.5,
+  "cumulativeLayoutShift": 0.915625,
+  "timeToInteractive": 2216.29,
+  "maxPotentialFirstInputDelay": 251,
+  "timeToFirstByte": 14.784999999999997,
+  "weight": {
+    "summary": "23 requests • 417 KiB",
+    "total": 427049,
+    "image": 322873,
+    "imageCount": 17,
+    "script": 86450,
+    "scriptCount": 3,
+    "document": 7718,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10008,
+    "stylesheetCount": 2,
+    "thirdParty": 54885,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 767,
+    "violations": 27
+  }
+}
