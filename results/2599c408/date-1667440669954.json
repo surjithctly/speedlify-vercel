@@ -1,0 +1,50 @@
+{
+  "url": "https://logistics-next.vercel.app/",
+  "requestedUrl": "https://logistics-next.vercel.app/",
+  "timestamp": 1667440745092,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 3,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.77,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 368
+  },
+  "firstContentfulPaint": 2004.1910000000003,
+  "speedIndex": 2456.573169999997,
+  "largestContentfulPaint": 5870.286499999999,
+  "totalBlockingTime": 74,
+  "cumulativeLayoutShift": 0.03817813873291015,
+  "timeToInteractive": 2455.2865,
+  "maxPotentialFirstInputDelay": 124,
+  "timeToFirstByte": 48.27199999999999,
+  "weight": {
+    "summary": "26 requests • 1,380 KiB",
+    "total": 1413489,
+    "image": 1261139,
+    "imageCount": 7,
+    "script": 93953,
+    "scriptCount": 10,
+    "document": 10339,
+    "font": 40480,
+    "fontCount": 5,
+    "stylesheet": 7578,
+    "stylesheetCount": 2,
+    "thirdParty": 41613,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 481,
+    "violations": 39
+  }
+}
