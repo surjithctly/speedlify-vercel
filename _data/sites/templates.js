@@ -10,6 +10,7 @@ module.exports = {
 		"https://medicity-eleventy.vercel.app/",
 		"https://nextly.web3templates.com/",
 		"https://stablo.web3templates.com/",
-		"https://sandocs.vercel.app/"
+		"https://sandocs.vercel.app/",
+		"https://astroship.web3templates.com/"
 	]
 };
