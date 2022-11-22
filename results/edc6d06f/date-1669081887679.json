@@ -1,0 +1,50 @@
+{
+  "url": "https://greenhome-next.vercel.app/",
+  "requestedUrl": "https://greenhome-next.vercel.app/",
+  "timestamp": 1669081976432,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 6,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.98,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 389
+  },
+  "firstContentfulPaint": 1021.49,
+  "speedIndex": 1021.49,
+  "largestContentfulPaint": 1882.49,
+  "totalBlockingTime": 206.50000000000023,
+  "cumulativeLayoutShift": 0.04827392578125,
+  "timeToInteractive": 2632.4900000000002,
+  "maxPotentialFirstInputDelay": 231,
+  "timeToFirstByte": 7.928000000000004,
+  "weight": {
+    "summary": "19 requests • 211 KiB",
+    "total": 216521,
+    "image": 45462,
+    "imageCount": 3,
+    "script": 107883,
+    "scriptCount": 9,
+    "document": 9066,
+    "font": 45269,
+    "fontCount": 5,
+    "stylesheet": 8841,
+    "stylesheetCount": 1,
+    "thirdParty": 45269,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 661,
+    "violations": 16
+  }
+}
