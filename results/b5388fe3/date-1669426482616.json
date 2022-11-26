@@ -1,0 +1,50 @@
+{
+  "url": "https://astroship.web3templates.com/",
+  "requestedUrl": "https://astroship.web3templates.com/",
+  "timestamp": 1669426590687,
+  "ranks": {
+    "hundos": 1,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1057.358,
+  "speedIndex": 1057.358,
+  "largestContentfulPaint": 1057.358,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1057.358,
+  "maxPotentialFirstInputDelay": 44,
+  "timeToFirstByte": 9.640999999999998,
+  "weight": {
+    "summary": "5 requests • 58 KiB",
+    "total": 59022,
+    "image": 29155,
+    "imageCount": 1,
+    "script": 15248,
+    "scriptCount": 1,
+    "document": 7749,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6870,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 165,
+    "violations": 9
+  }
+}
