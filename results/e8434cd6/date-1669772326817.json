@@ -1,0 +1,50 @@
+{
+  "url": "https://sandocs.vercel.app/",
+  "requestedUrl": "https://sandocs.vercel.app/",
+  "timestamp": 1669772449019,
+  "ranks": {
+    "hundos": 6,
+    "performance": 3,
+    "accessibility": 6,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.99,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 373
+  },
+  "firstContentfulPaint": 1272.009,
+  "speedIndex": 1754.4870779952475,
+  "largestContentfulPaint": 1619.009,
+  "totalBlockingTime": 119,
+  "cumulativeLayoutShift": 0.03703304036458334,
+  "timeToInteractive": 2870.009,
+  "maxPotentialFirstInputDelay": 126,
+  "timeToFirstByte": 342.462,
+  "weight": {
+    "summary": "17 requests • 577 KiB",
+    "total": 591314,
+    "image": 1742,
+    "imageCount": 1,
+    "script": 119677,
+    "scriptCount": 10,
+    "document": 14638,
+    "font": 448638,
+    "fontCount": 4,
+    "stylesheet": 6619,
+    "stylesheetCount": 1,
+    "thirdParty": 448638,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 292,
+    "violations": 39
+  }
+}
